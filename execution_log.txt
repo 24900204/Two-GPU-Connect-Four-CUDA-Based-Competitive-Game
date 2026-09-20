@@ -1,0 +1,8 @@
+REAL EXECUTION EVIDENCE REQUIRED
+
+Run:
+  nvidia-smi -L
+  make
+  ./two_gpu_connect4 --gpu0 0 --gpu1 1
+
+Paste the actual terminal output here. Do not use fabricated output.
